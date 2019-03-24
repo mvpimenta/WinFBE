@@ -1,0 +1,394 @@
+﻿' WinFBE localization file for ENGLISH language
+'
+' The first element to exist must be called "MAXIMUM" and needs to be set to
+' the value of the last key in this file. 
+'
+' This file should be created and saved using UTF-16 (BOM) encoding (unicode).
+'  
+' Each line represents a key/value pair describing the position to store the
+' localized word/phrase into the localization array used by winFBE. Simple.
+
+MAXIMUM:400
+
+00000:OK
+00001:Cancela
+00002:Arquivo
+00003:Novo
+00004:Abrir
+00005:Fechar
+00006:Fechar Tudo
+00007:Salvar
+00008:Salvar Como
+00009:Salvar Tudo
+00010:Arquivos Recentes
+00011:(Vazio)
+00012:Prompt de comando
+00013:Sair
+00014:Editar
+00015:Desfazer
+00016:Refazer
+00017:Cortar
+00018:Copiar
+00019:Colar
+00020:Apagar Linha
+00021:Inserir Arquivo
+00022:Bloquear Operações
+00023:Indentar Bloco
+00024:DesIndentar Bloco
+00025:Comentar Bloco
+00026:DesComentar Bloco
+00027:Operações com Linhas
+00028:Duplicar Linha Atual
+00029:Mover Linha Atual para Cima
+00030:Mover Linha Atual para Baixo
+00031:Conversão de Caixa
+00032:Seleção para Maiúsculas
+00033:Seleção para Minúsculas
+00034:Seleção para Primeira-Maiúscula
+00035:Conversões para o terminador de linha
+00036:Converte para CRLF
+00037:Converte para CR
+00038:Converte para LF
+00039:Substituir Tabulações por Espaços
+00040:Seleciona Tudo
+00041:Seleciona Linha
+00042:Procura
+00043:Localiza
+00044:Localiza Próximo
+00045:Localiza Anterior
+00046:Substitui
+00047:Definição de Sub/Function
+00048:Última posição
+00049:Vai para a linha
+00050:Alterna o Marcador
+00051:Marcador Seguinte
+00052:Marcador Anterior
+00053:Limpa Marcador
+00054:Ver
+00055:Alterna o Ponto de Ítem atual
+00056:Alterna o Atual e Todos Abaixo
+00057:Contrai todos
+00058:Expande todos
+00059:Mais Zoom 
+00060:Menos Zoom
+00061:Restaura o Tamanho da Janela Principal
+00062:Opções de Ambiente
+00063:Projeto
+00064:Compilar
+00065:Montar e Executar
+00066:Conferir
+00067:Rodar Executável
+00068:Linha de Comando
+00069:Usar compilador 32-bit
+00070:Usar Compilador 64-bit
+00071:Compilar Aplicação GUI
+00072:Compilar Aplicação Console
+00073:Ajuda
+00074:Sobre
+00075:Abrir
+00076:Salva as mudanças atuais?
+00077:Arquivos de código
+00078:Arquivos de Cabeçalho
+00079:Todos os Arquivos
+00080:Inserir Arquivo
+00081:Arquivo não encontrado
+00082:Guia Seguinte
+00083:Guia Anterior
+00084:Função Seguinte
+00085:Função Anterior
+00086:Fechar Guia
+00087:Você tem certeza que quer apagar este Snippet?
+00088:Snippets de usuário
+00089:Disparador
+00090:Pressione TAB no Editor de código para ativar
+00091:Verifica se há atualizações
+00092:Falha ao tentar recuperar atualizações
+00093:Erro
+00094:Atualização de Programa
+00095:Ativar auto-completar
+00096:Você já está atualizado
+00097:é a versão mais nova disponível
+00098:Uma nova versão está disponível.
+00099:Atual
+00100:Compilador FB
+00101:Procure pelo compilador FreeBasic
+00102:Arquivos de Locais
+00103:Abrir a Arquivos de Locais
+00104:Arquivo de Ajuda
+00105:Procurar pelo arquivo de Ajuda
+00106:Abrir o arquivo fonte
+00107:Disponível
+00108:As alterações de Localização serão aplicadas na próxima vez que a aplicação for rodada.
+00109:Atenção
+00110:Editor de código
+00111:Cores e fontes
+00112:Setup do Compilador
+00113:Opções de Ambiente
+00114:Destaque na Sintaxe
+00115:Habilitar CodeTips
+00116:Confine caret to text*******
+00117:Ressaltar a linha atual
+00118:Tratar Tabulações como espaços
+00119:Permitir múltiplas instâncias
+00120:Auto indentação
+00121:Gravação automática ao compilar arquivos
+00122:Exibir margem esquerda
+00123:Exibir margem de contração
+00124:Exibir números de linhas
+00125:Exibir guias de indentação
+00126:Selecionar
+00127:Tamanho de TAB
+00128:Caixa
+00129:Local
+00130:Minúscula
+00131:Maiúscula
+00132:Caixa Original
+00133:Cores
+00134:Cor
+00135:Fundo
+00136:Fonte (aplica-se a todos os estilos)
+00137:Você quer visitar o site de downloads?
+00138:Caret**********
+00139:Comentários
+00140:Linha ressaltada
+00141:Palavra-chave
+00142:Margem de contração
+00143:Símbolo de contração
+00144:Guias de Indentação
+00145:NumLinhas
+00146:Operadores
+00147:Preprocessador
+00148:Seleção
+00149:Literais
+00150:Texto
+00151:Ajusta na Largura
+00152:Janela
+00153:Opções adicionais de chaves do compilador (opcional)
+00154:Compilador FBC 32bit
+00155:Arquivo de ajuda FreeBASIC (*.chm)
+00156:CompiladorFBC 64bit
+00157:Arquivo de ajuda WinAPI (Win32_fb.chm)
+00158:Localiza
+00159:Localiza o que?
+00160:Ajusta na Altura
+00161:Fechar
+00162:Considera palavras inteiras
+00163:Considera a caixa
+00164:Stretch******
+00165:Aplica a maior escala DPI
+00166:Checa por atualizações no início (uma vez por dia)
+00167:Opções
+00168:Vai para linha
+00169:Última linha
+00170:Linha atual
+00171:ir para a linha
+00172:(use o botão direito no menu pop-up para inserir parâmetros)
+00173:Substitui
+00174:Substitui tudo
+00175:Cabeçalho
+00176:Templates
+00177:Palavras-chave FreeBASIC
+00178:Linha de Comando
+00179:Entre com os argumentos da linha de comando:
+00180:Novo Projeto
+00181:Arquivo de Cabeçalho
+00182:Abrir Projeto
+00183:Fechar Projeto
+00184:Salvar Projeto
+00185:Salvar Projetos como
+00186:Opções de projeto
+00187:Guia de Navegação
+00188:Marcadores
+00189:Navegação no fonte
+00190:Remover do projeto
+00191:Resultados do Compilador
+00192:Atenção
+00193:Erros
+00194:Código principal
+00195:Compilação do fonte:
+00196:Tempo de compilação:
+00197:Abrir Templates
+00198:segundos
+00199:bytes
+00200:Mão posso compilar - o Progama está rodando agora
+00201:Erro
+00202:Caminho inválido para o compilador.
+00203:Compilando
+00204:Arquivo normal
+00205:Arquivo de modulo
+00206:Arquivo principal
+00207:Adicionar arquivos ao projeto
+00208:Não está especificado um arquivo principal para este projeto.
+00209:Arquivos de Recursos
+00210:Normal
+00211:Módulo
+00212:Principal
+00213:Recurso
+00214:Opções de projeto
+00215:Novo projeto
+00216:Arquivos do projeto
+00217:Caminho de arquivo de projeto inválido
+00218:(Nivel de módulo)
+00219:Projetos Recentes
+00220:Dicas de edição
+00221:Ver a lista de funções
+00222:Somente Leitura
+00223:Lista de funções
+00224:Definição de Sub/Function não encontrada.
+00225:Limpar esta lista
+00226:Opções gerais
+00227:Fecha a lista de funções        
+00228:Compilado com sucesso
+00229:Falha na Compilação
+00230:Executável
+00231:Vai para o arquivo de cabeçalho
+00232:Vai para o arquivo de fonte
+00233:Vai para o arquivo principal
+00234:Vai para o arquivo de Recursos
+00235:Texto da dica
+00236:Alinhamento
+00237:Mostrar no formulário
+00238:Estilo da Borda
+00239:Tamanho automático
+00240:Caminho do projeto
+00241:Outras opções (Compilador 32-bit)
+00242:Outras opções (Compilador 64-bit)
+00243:Erro carregando o HtmlHelp.
+00244:Arquivo de ajuda não encontrado.
+00245:Largura Mínima
+00246:Imagem
+00247:EXPLORER
+00248:Abrir Arquivo
+00249:Abrir Projeto
+00250:Ver Janela do Explorer
+00251:Ver Janela de Saída
+00252:Arquivo de Log do Compilador
+00253:Linha
+00254:Arquivo
+00255:Descrição
+00256:Localizar nos arquivos
+00257:Localizar nos arquivos
+00258:Procurar nas subpastas
+00259:Nos arquivos
+00260:Nas pastas
+00261:Escolha a pasta para pesquisar:
+00262:Resultados da pesquisa:
+00263:Para-fazer
+00264:Notas
+00265:Espaçamento horizontal
+00266:O arquivo foi alterado por outra aplicação. Recarregar?
+00267:Arquivo alterado
+00268:Reconstruir tudo
+00269:Nenhum resultado
+00270:Alterna o modo de substituição
+00271:Codificação do arquivo
+00272:Caixa mista
+00273:Roda os programas compilados usando a janela de comandoAgu
+00274:Pergunta antes de sair do editor
+00275:Tem certeza que deseja sair?
+00276:Confirma
+00277:Configurações de construção
+00278:Descrição
+00279:Opções do compilador
+00280:Ajusta como padrão
+00281:Insere
+00282:Deleta
+00283:Especifique as opções de compilador em adição a configuração de montagem escolhida
+00284:Espaçamento vertical
+00285:Roda rapidamente
+00286:Este documento foi deletado ou não está disponível. Você quer mantê-lo aberto no editor? 
+00287:Você tem certeza que quer deletar essa configuração de montagem?
+00288:Opções
+00289:Ferramentas do usuário
+00290:Nome da ferramenta
+00291:Comando
+00292:Parâmetros:
+00293:Pasta de trabalho
+00294:Acelerador
+00295:Espera por confirmação quando a ferramenta é acionada
+00296:Roda minimizado
+00297:Espera a ferramenta completar a tarefa antes de continuar
+00298:Ação:
+00299:Mostrar este item no menu do editor
+00300:Você tem certeza que quer deletar esta ferramenta de usuário?
+00301:Invocar durante a pós-compilação
+00302:Invocar durante a pré-compilação
+00303:Invocar somente quando soliciado pelo usuário
+00304:Por favor, confirme se você quer realmente executar a seguinte ferramenta de usuário:
+00305:Ferramentas
+00306:Mostra a margem limite
+00307:Posição
+00308:Cria arquivo de recursos e o manifesto
+00309:Desenhista
+00310:Novo formulário
+00311:Ver caixa de ferramentas
+00312:Editor de menu
+00313:Editor de ferramentas
+00314:Editor da barra de status
+00315:Alinhar
+00316:Esquerda
+00317:Centro
+00318:Direita
+00319:Acima
+00320:Meio
+00321:Abaixo
+00322:Fazer o mesmo tamanho
+00323:Largura
+00324:Altura
+00325:Ambos
+00326:Deletar
+00327:Desenhar
+00328:Codificar
+00329:Fazer igual
+00330:Incrementar
+00331:Decrementar
+00332:Centralizar no formulário
+00333:Horizontalmente
+00334:Verticalmente
+00335:Travar controles
+00336:Novo tema
+00337:Nome do tema
+00338:Você tem certeza que quer deletar este tema?
+00339:Oculta a barra de ferramentas principal
+00340:Oculta a barra de status principal
+00341:Usuário selecionado
+00342:Negrito
+00343:Itálico
+00344:Sublinhado
+00345:Ações
+00346:Importar o tema
+00347:Deletar o tema
+00348:Criar novo tema
+00349:Remover
+00350:Propriedades
+00351:Ferramentas
+00352:Caixa de ferramentas
+00353:Eventos
+00354:Fechar outros
+00355:Fechar guias a esquerda
+00356:Fechar guias a direita
+00357:Um nome deve existir para os ítens de menu com legenda.
+00358:Item de menu pulou um nível.
+00359:Próximo
+00360:Estado
+00361:Checado
+00362:Acinzentado
+00363:Atalho
+00364:Nome
+00365:Ativa linhas de salto
+00366:Você tem certeza que quer deletar?
+00367:Nome de menu duplicado.
+00368:Gerenciador de imagens
+00369:Adicionar Imagem
+00370:Remover Imagem
+00371:Formatar Recurso
+00372:Anexar a um Controle
+00373:Desanexar de um Controle
+00374:Tipo de Arquivo
+00375:Autodimensionar
+00376:Tamanho atual
+00377:Prévia de Imagem
+00378:Imagens
+00379:referencia
+00380:Adiciona
+00381:Largura
